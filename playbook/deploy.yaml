@@ -8,6 +8,6 @@
         name: 66022916-container  # docker container name
         image: 66022916:latest   # docker image name
         ports:
-          - "80:80"  
+          - "10000:80"  
         state: started
         restart: true
