@@ -5,9 +5,9 @@
   tasks:
     - name: Building Docker Image
       docker_image:
-        name: 66022916:latest  # docker image name
+        name: 66022916:latest  
         source: build
         build:
-          path: 66022916 ~/
+          path: ~/66022916
         state: present
         force_source: true
