@@ -8,6 +8,6 @@
         name: 66022916:latest  
         source: build
         build:
-          path: ~/66022916
+          path: 66022916
         state: present
         force_source: true
