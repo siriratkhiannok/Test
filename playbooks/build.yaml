@@ -10,6 +10,6 @@
         name: 66022916:latest  
         source: build
         build:
-          path:/root/66022916 
+          path: /root/66022916 
         state: present
         force_source: true
