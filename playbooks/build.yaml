@@ -1,5 +1,3 @@
-
-
 - name: Build Docker Image
   hosts: dockerservers
   gather_facts: false
